@@ -9,9 +9,6 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@ant-design/charts": "^1.4.2",
-    "@ant-design/plots": "^1.2.1",
-    "@antv/g2plot": "^2.4.23",
     "eslint": "8.28.0",
     "eslint-config-next": "13.0.6",
     "next": "13.0.6",
